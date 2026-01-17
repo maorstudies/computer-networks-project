@@ -14,5 +14,4 @@ Computer Networks final project: DNS/TCP traffic analysis with Wireshark and Pyt
 - part2_chat_tcp_capture.pcap - Wireshark capture of chat application traffic
 
 ### Report
-Report
-- דוח מסכם פרויקט.pdf – Final project report
+- דוח מסכם פרויקט.pdf - Final project report
