@@ -15,3 +15,13 @@ Computer Networks final project: DNS/TCP traffic analysis with Wireshark and Pyt
 
 ### Report
 - Final_project_report.pdf
+
+## How to Run
+Start the server:
+python server.py
+
+Then open a separate terminal for each user:
+python client.py
+
+Enter a username, then type another user's name to start chatting.
+Use @username to send to someone specific, /change to switch.
